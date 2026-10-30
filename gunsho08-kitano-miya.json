@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kitano-miya-utaawase",
  "yomi": "きたののみやうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（十五番・三題）",
+  "era": "元久元年（1204）11月11日",
+  "author": "主催 後鳥羽院",
+  "desc": "後鳥羽院のもとで北野宮に奉納するため当座で詠まれた十五番の歌合。時雨・忍恋・羇旅の題で、良経・通具・定家・有家・家隆・雅経・家長・秀能らが詠み、衆議で判を定めた。"
+ },
  "editions": [
   {
    "pid": "1879502",
